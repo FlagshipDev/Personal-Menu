@@ -8,6 +8,12 @@ It is completely configurable and comes with a small tutorial to add more things
 
 All the lines that you must change and a pack with the resources that I am using for this menu on my current server are also commented.
 
+Requirements.zip ->
+
+fs_taxi with voice (InteractSound)  
+esx_hud (InfamesHUD)
+SimpleCinematic  -> https://forum.cfx.re/t/release-simple-cinematic/675914
+ 
 
 I hope it is useful to you
 
