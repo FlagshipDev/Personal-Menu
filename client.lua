@@ -120,9 +120,10 @@ end
 function OpenMenuPersonal()
     ESX.UI.Menu.CloseAll()
 
+    local DataJob = ESX.GetPlayerData()
     local ids = true
-    local job = PlayerData.job.label
-    local jobgrade = PlayerData.job.grade_label
+    local job = DataJob.job.label
+    local jobgrade = DataJob.job.grade_label
 
     --[[ Template 
     
